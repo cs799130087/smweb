@@ -89,7 +89,7 @@ export default {
               console.log(err);
             });
         } else {
-          console.log("error submit!!");
+          console.log("err submit!!");
           return false;
         }
       });
